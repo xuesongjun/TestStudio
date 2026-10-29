@@ -27,8 +27,8 @@
 - [x] **INIT-004**：建立 `README.md`、`AGENTS.md`、`.gitignore` 和 `.gitattributes`。
 - [x] **INIT-005**：建立 `task.md`、`process.md`，补充文档入口与后续维护约定。
 - [x] **INIT-006**：按用户授权，将项目基础文档与 Git 规则纳入首笔本地初始化提交。
-- [ ] **INIT-007**：按本次授权检查提交范围、记录完整验证，将已完成的模拟原型及界面改进提交到本地 main。
-- [ ] **INIT-008**：确认同名仓库释放，创建 xuesongjun/TestStudio 公开仓库并推送独立 main，验证远程提交与本地一致。
+- [x] **INIT-007**：按本次授权检查提交范围、记录完整验证，将已完成的模拟原型及界面改进提交到本地 main（00c7c04）。
+- [x] **INIT-008**：确认同名仓库释放，创建 xuesongjun/TestStudio 公开仓库并推送独立 main，验证远程提交与本地一致。
 
 ## 2. 需求确认与详细设计（P0，LA 资料为 P1）
 
